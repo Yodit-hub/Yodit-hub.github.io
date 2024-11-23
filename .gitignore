@@ -9,6 +9,9 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+package-lock.json
+directory_content_extractor.py
+project_contents.txt
 
 # testing
 /coverage
